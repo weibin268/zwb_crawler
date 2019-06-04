@@ -1,0 +1,11 @@
+.idea
+.vscode
+__pycache__
+dist
+*.egg-info
+
+
+top_level.txt
+SOURCES.txt
+PKG-INFO
+dependency_links.txt
